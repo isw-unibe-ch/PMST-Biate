@@ -1,0 +1,167 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,source,page,language_id
+biate001,no_stem,1.sg,keima,keima,kei+ma,k ei m a,k ei + m a,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate002,no_stem,1.pl.excl,keimani,keimani,kei+ma+ni,k ei m a n i,k ei + m a + n i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate003,no_stem,1.pl.incl,eimani,eimani,ei+ma+ni,ei m a n i,ei + m a + n i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate004,no_stem,2.sg,naŋ,naŋ,naŋ,n a ŋ,n a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate005,no_stem,2.pl,naŋni,naŋni,naŋ+ni,n a ŋ n i,n a ŋ + n i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate006,no_stem,2.pl,naŋmani,naŋmani,naŋ+ma+ni,n a ŋ m a n i,n a ŋ + m a + n i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate007,no_stem,3.sg,amaʔ,amaʔ,a+maʔ,a m a ʔ,a + m a ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate008,no_stem,3.pl,anmani,anmani,an+ma+ni,a n m a n i,a n + m a + n i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate009,fe,1.sg.fut.aff,feŋ ki ti,Σ ki ti,Σ+ŋ+ki+ti,Σ ŋ k i t i,Σ + ŋ + k i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate010,fe,1.pl.excl.fut.aff,feŋ kin ti,Σ kin ti,Σ+ŋ+ki+n+ti,Σ ŋ k i n t i,Σ + ŋ + k i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate011,fe,1.pl.incl.fut.aff,feŋ ei ti,Σ ei ti,Σ+ŋ+ei+ti,Σ ŋ ei t i,Σ + ŋ + ei + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate012,mu,1.sg.2.sg.fut.aff,la mu roŋ,la Σ roŋ,la+Σ+roŋ,l a Σ r o ŋ,l a + Σ + r o ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate013,mu,1.sg.2.pl.fut.aff,la mu roŋ,la Σ roŋ,la+Σ+roŋ,l a Σ r o ŋ,l a + Σ + r o ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate014,mu,1.pl.excl.2.sg.fut.aff,la mu roŋ uŋ,la Σ roŋ uŋ,la+Σ+roŋ+uŋ,l a Σ r o ŋ u ŋ,l a + Σ + r o ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate015,mu,1.pl.excl.2.pl.fut.aff,la mu roŋ uŋ,la Σ roŋ uŋ,la+Σ+roŋ+uŋ,l a Σ r o ŋ u ŋ,l a + Σ + r o ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate016,mu,1.sg.3.sg.fut.aff,la mu roŋ,la Σ roŋ,la+Σ+roŋ,l a Σ r o ŋ,l a + Σ + r o ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate017,mu,1.sg.3.pl.fut.aff,la mu roŋ,la Σ roŋ,la+Σ+roŋ,l a Σ r o ŋ,l a + Σ + r o ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate018,mu,1.pl.excl.3.sg.fut.aff,la mu roŋ uŋ,la Σ roŋ uŋ,la+Σ+roŋ+uŋ,l a Σ r o ŋ u ŋ,l a + Σ + r o ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate019,mu,1.pl.incl.3.sg.fut.aff,la mu rei,la Σ rei,la+Σ+rei,l a Σ r ei,l a + Σ + r ei,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate020,mu,1.pl.excl.3.pl.fut.aff,la mu roŋ uŋ,la Σ roŋ uŋ,la+Σ+roŋ+uŋ,l a Σ r o ŋ u ŋ,l a + Σ + r o ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate021,mu,1.pl.incl.3.pl.fut.aff,la mu rei,la Σ rei,la+Σ+rei,l a Σ r ei,l a + Σ + r ei,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate022,fe,2.sg.fut.aff,feŋ ni ti,Σ ni ti,Σ+ŋ+ni+ti,Σ ŋ n i t i,Σ + ŋ + n i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate023,fe,2.pl.fut.aff,feŋ nin ti,Σ nin ti,Σ+ŋ+ni+n+ti,Σ ŋ n i n t i,Σ + ŋ + n i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate024,mu,2.sg.1.sg.fut.aff,ne muŋ ni ti,ne Σ ni ti,ne+Σ+ŋ+ni+ti,n e Σ ŋ n i t i,n e + Σ + ŋ + n i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate025,mu,2.sg.1.pl.excl.fut.aff,ne muŋ ni ti,ne Σ ni ti,ne+Σ+ŋ+ni+ti,n e Σ ŋ n i t i,n e + Σ + ŋ + n i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate026,mu,2.pl.1.sg.fut.aff,ne muŋ nin ti,ne Σ nin ti,ne+Σ+ŋ+ni+n+ti,n e Σ ŋ n i n t i,n e + Σ + ŋ + n i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate027,mu,2.pl.1.pl.excl.fut.aff,ne muŋ nin ti,ne Σ nin ti,ne+Σ+ŋ+ni+n+ti,n e Σ ŋ n i n t i,n e + Σ + ŋ + n i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate028,mu,2.sg.3.sg.fut.aff,muŋ ni ti,Σ ni ti,Σ+ŋ+ni+ti,Σ ŋ n i t i,Σ + ŋ + n i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate029,mu,2.sg.3.pl.fut.aff,muŋ ni ti,Σ ni ti,Σ+ŋ+ni+ti,Σ ŋ n i t i,Σ + ŋ + n i + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate030,mu,2.pl.3.sg.fut.aff,muŋ nin ti,Σ nin ti,Σ+ŋ+ni+n+ti,Σ ŋ n i n t i,Σ + ŋ + n i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate031,mu,2.pl.3.pl.fut.aff,muŋ nin ti,Σ nin ti,Σ+ŋ+ni+n+ti,Σ ŋ n i n t i,Σ + ŋ + n i + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate032,fe,3.sg.fut.aff,feŋ a ti,Σ a ti,Σ+ŋ+a+ti,Σ ŋ a t i,Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate033,fe,3.pl.fut.aff,feŋ an ti,Σ an ti,Σ+ŋ+an+ti,Σ ŋ a n t i,Σ + ŋ + a n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate034,mu,3.sg.1.sg.fut.aff,ne muŋ a ti,ne Σ a ti,ne+Σ+ŋ+a+ti,n e Σ ŋ a t i,n e + Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate035,mu,3.sg.1.pl.excl.fut.aff,ne muŋ a ti,ne Σ a ti,ne+Σ+ŋ+a+ti,n e Σ ŋ a t i,n e + Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate036,mu,3.sg.1.pl.excl.fut.aff,ne muŋ a ti,ne Σ a ti,ne+Σ+ŋ+a+ti,n e Σ ŋ a t i,n e + Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate037,mu,3.sg.1.pl.incl.fut.aff,ne muŋ a ti,ne Σ a ti,ne+Σ+ŋ+a+ti,n e Σ ŋ a t i,n e + Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate038,mu,3.sg.1.pl.incl.fut.aff,ne muŋ a ti,ne Σ a ti,ne+Σ+ŋ+a+ti,n e Σ ŋ a t i,n e + Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate039,mu,3.pl.1.sg.fut.aff,ne muŋ an ti,ne Σ an ti,ne+Σ+ŋ+a+n+ti,n e Σ ŋ a n t i,n e + Σ + ŋ + a + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate040,mu,3.pl.1.pl.excl.fut.aff,ne muŋ an ti,ne Σ an ti,ne+Σ+ŋ+a+n+ti,n e Σ ŋ a n t i,n e + Σ + ŋ + a + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate041,mu,3.pl.1.pl.incl.fut.aff,ne muŋ an ti,ne Σ an ti,ne+Σ+ŋ+a+n+ti,n e Σ ŋ a n t i,n e + Σ + ŋ + a + n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate042,mu,3.sg.2.sg.fut.aff,muŋ a ti,Σ a ti,Σ+ŋ+a+ti,Σ ŋ a t i,Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate043,mu,3.sg.2.pl.fut.aff,muŋ a ti,Σ a ti,Σ+ŋ+a+ti,Σ ŋ a t i,Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate044,mu,3.pl.2.sg.fut.aff,muŋ an ti,Σ an ti,Σ+ŋ+an+ti,Σ ŋ a n t i,Σ + ŋ + a n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate045,mu,3.pl.2.pl.fut.aff,muŋ an ti,Σ an ti,Σ+ŋ+an+ti,Σ ŋ a n t i,Σ + ŋ + a n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate046,mu,3.sg.3.sg.fut.aff,muŋ a ti,Σ a ti,Σ+ŋ+a+ti,Σ ŋ a t i,Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate047,mu,3.sg.3.pl.fut.aff,muŋ a ti,Σ a ti,Σ+ŋ+a+ti,Σ ŋ a t i,Σ + ŋ + a + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate048,mu,3.pl.3.sg.fut.aff,muŋ an ti,Σ an ti,Σ+ŋ+an+ti,Σ ŋ a n t i,Σ + ŋ + a n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate049,mu,3.pl.3.pl.fut.aff,muŋ an ti,Σ an ti,Σ+ŋ+an+ti,Σ ŋ a n t i,Σ + ŋ + a n + t i,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate050,fe,1.sg.fut.neg,fe no niŋ,Σ no niŋ,Σ+no+niŋ,Σ n o n i ŋ,Σ + n o + n i ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate051,fe,1.pl.excl.fut.neg,fe no niŋ uŋ,Σ no niŋ uŋ,Σ+no+niŋ+uŋ,Σ n o n i ŋ u ŋ,Σ + n o + n i ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate052,fe,1.pl.incl.fut.neg,fe no min,Σ no min,Σ+no+min,Σ n o m i n,Σ + n o + m i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate053,mu,1.sg.2.sg.fut.neg,mu no niŋ,Σ no niŋ,Σ+no+niŋ,Σ n o n i ŋ,Σ + n o + n i ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate054,mu,1.sg.2.pl.fut.neg,mu no niŋ,Σ no niŋ,Σ+no+niŋ,Σ n o n i ŋ,Σ + n o + n i ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate055,mu,1.sg.3.pl.fut.neg,mu no niŋ,Σ no niŋ,Σ+no+niŋ,Σ n o n i ŋ,Σ + n o + n i ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate056,mu,1.pl.excl.2.sg.fut.neg,mu no niŋ uŋ,Σ no niŋ uŋ,Σ+no+niŋ+uŋ,Σ n o n i ŋ u ŋ,Σ + n o + n i ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate057,mu,1.pl.excl.2.pl.fut.neg,mu no niŋ uŋ,Σ no niŋ uŋ,Σ+no+niŋ+uŋ,Σ n o n i ŋ u ŋ,Σ + n o + n i ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate058,mu,1.sg.3.sg.fut.neg,mu no niŋ,Σ no niŋ,Σ+no+niŋ,Σ n o n i ŋ,Σ + n o + n i ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate059,mu,1.pl.excl.3.sg.fut.neg,mu no niŋ uŋ,Σ no niŋ uŋ,Σ+no+niŋ+uŋ,Σ n o n i ŋ u ŋ,Σ + n o + n i ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate060,mu,1.pl.incl.3.sg.fut.neg,mu no min,Σ no min,Σ+no+min,Σ n o m i n,Σ + n o + m i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate061,mu,1.pl.excl.3.pl.fut.neg,mu no niŋ uŋ,Σ no niŋ uŋ,Σ+no+niŋ+uŋ,Σ n o n i ŋ u ŋ,Σ + n o + n i ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate062,mu,1.pl.incl.3.pl.fut.neg,mu no min,Σ no min,Σ+no+min,Σ n o m i n,Σ + n o + m i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate063,fe,2.sg.fut.neg,fe no tin,Σ no tin,Σ+no+tin,Σ n o t i n,Σ + n o + t i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate064,fe,2.pl.fut.neg,fe no tin u,Σ no tin u,Σ+no+tin+u,Σ n o t i n u,Σ + n o + t i n + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate065,mu,2.sg.1.sg.fut.neg,ne mu no tin,ne Σ no tin,ne+Σ+no+tin,n e Σ n o t i n,n e + Σ + n o + t i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate066,mu,2.sg.1.pl.excl.fut.neg,ne mu no tin,ne Σ no tin,ne+Σ+no+tin,n e Σ n o t i n,n e + Σ + n o + t i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate067,mu,2.pl.1.sg.fut.neg,ne mu no tin u,ne Σ no tin u,ne+Σ+no+tin+u,n e Σ n o t i n u,n e + Σ + n o + t i n + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate068,mu,2.pl.1.pl.excl.fut.neg,ne mu no tin u,ne Σ no tin u,ne+Σ+no+tin+u,n e Σ n o t i n u,n e + Σ + n o + t i n + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate069,mu,2.sg.3.sg.fut.neg,mu no tin,Σ no tin,Σ+no+tin,Σ n o t i n,Σ + n o + t i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate070,mu,2.sg.3.pl.fut.neg,mu no tin,Σ no tin,Σ+no+tin,Σ n o t i n,Σ + n o + t i n,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate071,mu,2.pl.3.sg.fut.neg,mu no tin u,Σ no tin u,Σ+no+tin+u,Σ n o t i n u,Σ + n o + t i n + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate072,mu,2.pl.3.pl.fut.neg,mu no tin u,Σ no tin u,Σ+no+tin+u,Σ n o t i n u,Σ + n o + t i n + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate073,fe,3.sg.fut.neg,fe no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate074,fe,3.pl.fut.neg,fe no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate075,mu,3.sg.1.sg.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate076,mu,3.sg.1.pl.excl.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate077,mu,3.sg.1.pl.incl.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate078,mu,3.pl.1.sg.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate079,mu,3.pl.1.pl.excl.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate080,mu,3.pl.1.pl.incl.fut.neg,ne mu no niʔ,ne Σ no niʔ,ne+Σ+no+niʔ,n e Σ n o n i ʔ,n e + Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate081,mu,3.sg.2.sg.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate082,mu,3.sg.2.pl.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate083,mu,3.pl.2.sg.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate084,mu,3.pl.2.pl.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate085,mu,3.sg.3.sg.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate086,mu,3.sg.3.pl.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate087,mu,3.pl.3.sg.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate088,mu,3.pl.3.pl.fut.neg,mu no niʔ,Σ no niʔ,Σ+no+niʔ,Σ n o n i ʔ,Σ + n o + n i ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate089,fe,1.sg.nfut.aff,ki fe,ki Σ,ki+Σ,k i Σ,k i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate090,fe,1.pl.excl.nfut.aff,kin fe,kin Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate091,fe,1.pl.incl.nfut.aff,ei fe,ei Σ,ei+Σ,ei Σ,ei + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate092,mu,1.sg.2.sg.nfut.aff,ki mu,ki Σ,ki+Σ,k i Σ,k i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate093,mu,1.sg.2.pl.nfut.aff,ki mu,ki Σ,ki+Σ,k i Σ,k i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate094,mu,1.pl.excl.2.sg.nfut.aff,kin mu,kin Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate095,mu,1.pl.excl.2.pl.nfut.aff,kin mu,kin Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate096,mu,1.sg.3.sg.nfut.aff,ki mu,ki Σ,ki+Σ,k i Σ,k i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate097,mu,1.sg.3.pl.nfut.aff,ki mu,ki Σ,ki+Σ,k i Σ,k i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate098,mu,1.pl.excl.3.sg.nfut.aff,kin mu,kin Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate099,mu,1.pl.incl.3.sg.nfut.aff,ei mu,ei Σ,ei+Σ,ei Σ,ei + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate100,mu,1.pl.excl.3.pl.nfut.aff,kin mu,kin Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate101,mu,1.pl.incl.3.pl.nfut.aff,ei mu,ei Σ,ei+Σ,ei Σ,ei + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate102,fe,2.sg.nfut.aff,ni fe,ni Σ,ni+Σ,n i Σ,n i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate103,fe,2.pl.nfut.aff,nin fe,nin Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate104,mu,2.sg.1.sg.nfut.aff,ni ne mu,ni ne Σ,ni+ne+Σ,n i n e Σ,n i + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate105,mu,2.sg.1.pl.excl.nfut.aff,ni ne mu,ni ne Σ,ni+ne+Σ,n i n e Σ,n i + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate106,mu,2.pl.1.sg.nfut.aff,nin ne mu,nin ne Σ,ni+n+ne+Σ,n i n n e Σ,n i + n + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate107,mu,2.pl.1.pl.excl.nfut.aff,nin ne mu,nin ne Σ,ni+n+ne+Σ,n i n n e Σ,n i + n + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate108,mu,2.sg.3.sg.nfut.aff,ni mu,ni Σ,ni+Σ,n i Σ,n i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate109,mu,2.sg.3.pl.nfut.aff,ni mu,ni Σ,ni+Σ,n i Σ,n i + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate110,mu,2.pl.3.sg.nfut.aff,nin mu,nin Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate111,mu,2.pl.3.pl.nfut.aff,nin mu,nin Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate112,fe,3.sg.nfut.aff,a fe,a Σ,a+Σ,a Σ,a + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate113,fe,3.pl.nfut.aff,an fe,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate114,mu,3.sg.1.sg.nfut.aff,a ne mu,a ne Σ,a+ne+Σ,a n e Σ,a + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate115,mu,3.sg.1.pl.excl.nfut.aff,a ne mu,a ne Σ,a+ne+Σ,a n e Σ,a + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate116,mu,3.sg.1.pl.incl.nfut.aff,a ne mu,a ne Σ,a+ne+Σ,a n e Σ,a + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate117,mu,3.pl.1.sg.nfut.aff,an ne mu,an ne Σ,a+n+ne+Σ,a n n e Σ,a + n + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate118,mu,3.pl.1.pl.excl.nfut.aff,an ne mu,an ne Σ,a+n+ne+Σ,a n n e Σ,a + n + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate119,mu,3.pl.1.pl.incl.nfut.aff,an ne mu,an ne Σ,a+n+ne+Σ,a n n e Σ,a + n + n e + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate120,mu,3.sg.2.sg.nfut.aff,a mu,a Σ,a+Σ,a Σ,a + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate121,mu,3.sg.2.pl.nfut.aff,a mu,a Σ,a+Σ,a Σ,a + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate122,mu,3.pl.2.sg.nfut.aff,an mu,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate123,mu,3.pl.2.pl.nfut.aff,an mu,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate124,mu,3.sg.3.sg.nfut.aff,a mu,a Σ,a+Σ,a Σ,a + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate125,mu,3.sg.3.pl.nfut.aff,a mu,a Σ,a+Σ,a Σ,a + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate126,mu,3.pl.3.sg.nfut.aff,an mu,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate127,mu,3.pl.3.pl.nfut.aff,an mu,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate128,fe,1.sg.nfut.neg,fe maŋ,Σ maŋ,Σ+maŋ,Σ m a ŋ,Σ + m a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate129,fe,1.pl.excl.nfut.neg,fe maŋ uŋ,Σ maŋ uŋ,Σ+maŋ+uŋ,Σ m a ŋ u ŋ,Σ + m a ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate130,fe,1.pl.incl.nfut.neg,fe maŋ meʔ,Σ maŋ meʔ,Σ+maŋ+meʔ,Σ m a ŋ m e ʔ,Σ + m a ŋ + m e ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate131,mu,1.sg.2.sg.nfut.neg,mu maŋ,Σ maŋ,Σ+maŋ,Σ m a ŋ,Σ + m a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate132,mu,1.sg.2.pl.nfut.neg,mu maŋ,Σ maŋ,Σ+maŋ,Σ m a ŋ,Σ + m a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate133,mu,1.pl.excl.2.sg.nfut.neg,mu maŋ uŋ,Σ maŋ uŋ,Σ+maŋ+uŋ,Σ m a ŋ u ŋ,Σ + m a ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate134,mu,1.pl.excl.2.pl.nfut.neg,mu maŋ uŋ,Σ maŋ uŋ,Σ+maŋ+uŋ,Σ m a ŋ u ŋ,Σ + m a ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate135,mu,1.sg.3.sg.nfut.neg,mu maŋ,Σ maŋ,Σ+maŋ,Σ m a ŋ,Σ + m a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate136,mu,1.sg.3.pl.nfut.neg,mu maŋ,Σ maŋ,Σ+maŋ,Σ m a ŋ,Σ + m a ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate137,mu,1.pl.excl.3.sg.nfut.neg,mu maŋ uŋ,Σ maŋ uŋ,Σ+maŋ+uŋ,Σ m a ŋ u ŋ,Σ + m a ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate138,mu,1.pl.incl.3.sg.nfut.neg,mu maŋ meʔ,Σ maŋ meʔ,Σ+maŋ+meʔ,Σ m a ŋ m e ʔ,Σ + m a ŋ + m e ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate139,mu,1.pl.excl.3.pl.nfut.neg,mu maŋ uŋ,Σ maŋ uŋ,Σ+maŋ+uŋ,Σ m a ŋ u ŋ,Σ + m a ŋ + u ŋ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate140,mu,1.pl.incl.3.pl.nfut.neg,mu maŋ meʔ,Σ maŋ meʔ,Σ+maŋ+meʔ,Σ m a ŋ m e ʔ,Σ + m a ŋ + m e ʔ,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate141,fe,2.sg.nfut.neg,fe mak tse,Σ mak tse,Σ+mak+tse,Σ m a k ts e,Σ + m a k + ts e,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate142,fe,2.pl.nfut.neg,fe mak tsei,Σ mak tsei,Σ+mak+tsei,Σ m a k ts ei,Σ + m a k + ts ei,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate143,mu,2.sg.1.sg.nfut.neg,ne mu mak tse,ne Σ mak tse,ne+Σ+mak+tse,n e Σ m a k ts e,n e + Σ + m a k + ts e,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate144,mu,2.sg.1.pl.excl.nfut.neg,ne mu mak tse,ne Σ mak tse,ne+Σ+mak+tse,n e Σ m a k ts e,n e + Σ + m a k + ts e,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate145,mu,2.pl.1.sg.nfut.neg,ne mu mak tsei u,ne Σ mak tsei u,ne+Σ+mak+tsei+u,n e Σ m a k ts ei u,n e + Σ + m a k + ts ei + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate146,mu,2.pl.1.pl.excl.nfut.neg,ne mu mak tsei u,ne Σ mak tsei u,ne+Σ+mak+tsei+u,n e Σ m a k ts ei u,n e + Σ + m a k + ts ei + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate147,mu,2.sg.3.sg.nfut.neg,mu mak tse,Σ mak tse,Σ+mak+tse,Σ m a k ts e,Σ + m a k + ts e,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate148,mu,2.sg.3.pl.nfut.neg,mu mak tse,Σ mak tse,Σ+mak+tse,Σ m a k ts e,Σ + m a k + ts e,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate149,mu,2.pl.3.sg.nfut.neg,mu mak tsei u,Σ mak tsei u,Σ+mak+tsei+u,Σ m a k ts ei u,Σ + m a k + ts ei + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate150,mu,2.pl.3.pl.nfut.neg,mu mak tsei u,Σ mak tsei u,Σ+mak+tsei+u,Σ m a k ts ei u,Σ + m a k + ts ei + u,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate151,fe,3.sg.nfut.neg,fe ŋai mak,Σ ŋai mak,Σ+ŋai+mak,Σ ŋ a i m a k,Σ + ŋ a i + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate152,fe,3.pl.nfut.neg,fe mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate153,mu,3.sg.1.sg.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate154,mu,3.sg.1.pl.excl.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate155,mu,3.sg.1.pl.incl.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate156,mu,3.pl.1.sg.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate157,mu,3.pl.1.pl.excl.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate158,mu,3.pl.1.pl.incl.nfut.neg,ne mu mak,ne Σ mak,ne+Σ+mak,n e Σ m a k,n e + Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate159,mu,3.sg.2.sg.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate160,mu,3.sg.2.pl.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate161,mu,3.pl.2.sg.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate162,mu,3.pl.2.pl.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate163,mu,3.sg.3.sg.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate164,mu,3.sg.3.pl.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate165,mu,3.pl.3.sg.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
+biate166,mu,3.pl.3.pl.nfut.neg,mu mak,Σ mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,Lalhminghlui2025Biate,nopage,biate
